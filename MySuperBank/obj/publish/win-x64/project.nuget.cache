@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "emuAgMvSJtqowC50lVVRgo4/nBPW9nDOfMim7pneron3NVgAm/8V4fP15Ui/+a2I0MCYEqLqBjMPd6UdcSnJ4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jevon Sanoturia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Jevon Sanoturia\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.5\\microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Jevon Sanoturia\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.5\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.5.nupkg.sha512",
+    "C:\\Users\\Jevon Sanoturia\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.5\\microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

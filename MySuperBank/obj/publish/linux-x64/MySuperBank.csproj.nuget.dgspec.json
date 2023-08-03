@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\MySuperBank\\MySuperBank.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+        "projectName": "BankyStuffLibrary",
+        "projectPath": "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+        "packagesPath": "C:\\Users\\Jevon Sanoturia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\BankyStuffLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jevon Sanoturia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Humanizer.Core": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[7.0.5, 7.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[7.0.5, 7.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\MySuperBank\\MySuperBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+        "projectName": "MySuperBank",
+        "projectPath": "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\MySuperBank\\MySuperBank.csproj",
+        "packagesPath": "C:\\Users\\Jevon Sanoturia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\MySuperBank\\obj\\publish\\linux-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jevon Sanoturia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj": {
+                "projectPath": "C:\\Users\\Jevon Sanoturia\\OneDrive\\Desktop\\MySuperBank\\BankyStuffLibrary\\BankyStuffLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[7.0.5, 7.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.5, 7.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[7.0.5, 7.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
